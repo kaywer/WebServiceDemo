@@ -3,7 +3,7 @@ package com.geekarms.ws.service;
 import com.geekarms.UserDB;
 import com.geekarms.adapter.MapUserAdapter;
 import com.geekarms.entity.User;
-import com.geekarms.interfaces.UserService;
+import com.geekarms.ws.interfaces.UserService;
 
 import javax.jws.WebService;
 import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;

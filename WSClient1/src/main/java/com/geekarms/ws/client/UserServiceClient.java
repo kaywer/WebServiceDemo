@@ -1,6 +1,6 @@
 package com.geekarms.ws.client;
 
-import com.geekarms.interfaces.UserService;
+import com.geekarms.ws.interfaces.UserService;
 import org.apache.cxf.jaxws.JaxWsProxyFactoryBean;
 
 /**

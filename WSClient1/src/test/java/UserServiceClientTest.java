@@ -1,5 +1,5 @@
 import com.geekarms.entity.User;
-import com.geekarms.interfaces.UserService;
+import com.geekarms.ws.interfaces.UserService;
 import com.geekarms.ws.client.UserServiceClient;
 import org.junit.Before;
 import org.junit.Test;
